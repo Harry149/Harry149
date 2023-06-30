@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harry149?tab=repositories](https://github.com/Harry149?tab=repositories)
 
-- 📫 You can reach me by adding ****alxz#2280****
+- 📫 You can reach me by adding ****harryy._**** On discord.
 
 - ⚡ Weird Fun fact ****Spider webs were used as bandages in ancient times.** Why? i dont know.**
 
