@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry149&label=Profile%20views&color=0e75b6&style=flat" alt="harry149" /> </p>
 
-- 🔭 I’m currently working on ****Venus Predictor!****
+- 🔭 I’m currently working on ****Nothing****
 
 - 🌱 I’m currently learning ****C++****
 
