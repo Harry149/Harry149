@@ -13,7 +13,7 @@
 
 - ⚡ Weird Fun fact ****Spider webs were used as bandages in ancient times.** Why? i dont know.**
 
-[![alxz#2280](https://discord.c99.nl/widget/theme-1/827494693251842069.png)](https://discord.c99.nl/)
+[![hry_.](https://discord.c99.nl/widget/theme-1/827494693251842069.png)](https://discord.c99.nl/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
