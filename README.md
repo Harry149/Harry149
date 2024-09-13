@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harry!</h1>
-<h3 align="center">I am a 15 Year Old Developer from the UK!</h3>
+<h3 align="center">I am a 16 Year Old Developer from the UK!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry149&label=Profile%20views&color=0e75b6&style=flat" alt="harry149" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harry149?tab=repositories](https://github.com/Harry149?tab=repositories)
 
-- 📫 You can reach me by adding ****harryy._**** On discord.
+- 📫 You can reach me by adding ****hryy._**** On discord.
 
 - ⚡ Weird Fun fact ****Spider webs were used as bandages in ancient times.** Why? i dont know.**
 
