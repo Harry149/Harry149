@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ****Nothing****
 
-- 🌱 I’m currently learning ****C++****
+- 🌱 I’m currently learning ****C#****
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harry149?tab=repositories](https://github.com/Harry149?tab=repositories)
 
