@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harry!</h1>
-<h3 align="center">I am a 17 Year Old Developer from the UK!</h3>
+<h3 align="center">I am a 18 Year Old Developer from the UK!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry149&label=Profile%20views&color=0e75b6&style=flat" alt="harry149" /> </p>
 
-- 🔭 I’m currently working on ****Nothing****
+- 🔭 I’m currently working on ****Flotilla****
 
-- 🌱 I’m currently learning ****C#****
+- 🌱 I’m currently learning ****Nothing****
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harry149?tab=repositories](https://github.com/Harry149?tab=repositories)
 
